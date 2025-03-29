@@ -24,8 +24,10 @@ Von der offiziellen Ubuntu-Webseite.
 ### 2. Neue VM in VirtualBox anlegen
 
 - Typ: Linux (Ubuntu 64-bit)  
-- RAM: 2048 MB  
-- Speicher: Dynamisch, 20 GB  
+- RAM: 4069 MB
+- Prozessoren: 4
+- EFI (Nicht aktiviert)  
+- Speicher: Dynamisch, 25 GB  
 - Netzwerk: NAT
 
 ![VM Einstellungen](screenshots/01-vm-erstellen.png)
